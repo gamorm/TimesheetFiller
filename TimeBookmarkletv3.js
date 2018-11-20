@@ -1,5 +1,5 @@
 
-//console.log(labor.start1)
+//console.log(labor.start1) 
 // SNIP
 var labor = {
   start1:8,
